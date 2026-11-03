@@ -99,6 +99,9 @@ Cisco device ──syslog UDP 514──▶ Wazuh listener ──▶ cisco-ios de
 ### Detection Rule Testing
 
 **Successful SSH login (100101)**
+
+
+
 <img width="537" height="66" alt="wazuhcustom9" src="https://github.com/user-attachments/assets/a102bcb5-4c0e-4d06-9578-6c5b77210e1a" />
 
 
@@ -107,6 +110,9 @@ Cisco device ──syslog UDP 514──▶ Wazuh listener ──▶ cisco-ios de
 
 
 **Device Configuration Change (100102)**
+
+
+
 <img width="544" height="61" alt="wazuhcustom10" src="https://github.com/user-attachments/assets/c14d4f44-1825-4790-ab82-967373b87291" />
 
 
@@ -114,6 +120,9 @@ Cisco device ──syslog UDP 514──▶ Wazuh listener ──▶ cisco-ios de
 
 
 **Authentication Failure (100100)**
+
+
+
 <img width="427" height="70" alt="wazuhcustom11" src="https://github.com/user-attachments/assets/db04b501-0e3d-466c-9e63-e676772e7fc8" />
 
 
@@ -121,6 +130,9 @@ Cisco device ──syslog UDP 514──▶ Wazuh listener ──▶ cisco-ios de
 
 
 **Device lockout triggered (100104)**
+
+
+
 <img width="506" height="72" alt="wazuhcustom12" src="https://github.com/user-attachments/assets/7cd8d3d1-3cdd-4fd2-a293-1d894bb6744c" />
 
 
@@ -128,6 +140,9 @@ Cisco device ──syslog UDP 514──▶ Wazuh listener ──▶ cisco-ios de
 
 
 **Brute Force (100103)**
+
+
+
 <img width="506" height="72" alt="wazuhcustom13" src="https://github.com/user-attachments/assets/51f169ed-bf87-49b0-b5ab-f4fbb3b6331b" />
 
 
